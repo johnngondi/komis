@@ -2,7 +2,7 @@
 A simple system to manage patient details in your clinic.
 
 They Include
-- Patient Diagnosis
+- Patient Diagnosis (encrypted for privacy)
 - Patient Treatment Info
 - Doctor, Pharmacist and Admin Access.
 - Patient Allergies info.
